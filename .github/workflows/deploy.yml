@@ -18,6 +18,6 @@ jobs:
           username: ubuntu
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           script: |
-            cd /var/www/praktek1cc
+            cd /var/www/praktik1cc
             sudo git pull origin main
             sudo systemctl reload nginx
