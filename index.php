@@ -66,7 +66,7 @@ $alasan = "Lagu ini merepresentasikan perasaan kehilangan yang mendalam setelah 
 <body>
   <h1><?= $judul ?> 💜</h1>
   <p><strong>Lagu:</strong> <?= $lagu ?></p>
-  <p><em>Kenapa suka?</em> <?= $alasan ?></p>
+  <p><em>Ada apa dengan lagu ini?</em> <?= $alasan ?></p>
   <img src="https://i.scdn.co/image/ab67616d0000b273b5a87f5a9d1b1fcf3e2292c4" alt="Malibu Nights cover">
   <div class="lyrics">
     <p>“There's no reason, there's no rhyme<br>
