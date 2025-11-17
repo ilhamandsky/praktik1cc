@@ -1,7 +1,7 @@
 <?php
 $judul = "Lagu Favoritku";
 $lagu = "Malibu Nights - LANY";
-$alasan = "karena lagu ini rasanya kayak langit malam setelah hujan — sepi tapi indah.";
+$alasan = "Lagu ini merepresentasikan perasaan kehilangan yang mendalam setelah berakhirnya sebuah hubungan.";
 ?>
 <!DOCTYPE html>
 <html lang="id">
